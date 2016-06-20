@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<overlay id="tinySmartFolderTree" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <tree id="folderTree">
+    <script type="application/javascript" src="chrome://tbtsftm/content/folderTree.js" insertbefore="folderPaneCols" />
+  </tree>
+</overlay>
