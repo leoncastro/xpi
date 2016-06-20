@@ -1,0 +1,2 @@
+content tbtsftm content/
+overlay chrome://messenger/content/messenger.xul chrome://tbtsftm/content/overlay.xul
